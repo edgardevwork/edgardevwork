@@ -1,5 +1,5 @@
 <div align="center">
-## Hi! My name is Edgar's.
+<h2>Hi! My name is Edgar's.</h2>
 ## 🛠️ My Stack
 
 ### Frontend & Mobile Development
