@@ -1,8 +1,5 @@
 <div align="center">
 # Hi! My name is Edgar's.
-  
----
-
 ## 🛠️ My Stack
 
 ### Frontend & Mobile Development
