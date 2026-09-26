@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi! My name is Edgar's.</h2>
-## 🛠️ My Stack
+<h1>🛠️ My Stack</h1>
 
 ### Frontend & Mobile Development
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
