@@ -21,5 +21,6 @@
 ### My vk: [@edgarr4ik](https://vk.ru/edgarr4ik)
 
 ## 😉 My Stats
+[![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardevwork)](https://github.com/edgardevwork/github-readme-stats)
 
 </div>
