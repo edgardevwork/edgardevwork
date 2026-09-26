@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi! My name is Edgar's. 🛠️ My Stack
+## Hi! My name is <a ref="https://github.com/edgardevwork">Edgar's</a>. 🛠️ My Stack
 
 ### Frontend & Mobile Development
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
