@@ -15,12 +15,11 @@
 ### Bot for Telegram
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-```My contact details
-My email: edgar3.0gamedev@gmail.com
-My telegram: [@edgardevwork](https://t.me/edgardevwork)
-My vk: [@edgarr4ik](https://vk.ru/edgarr4ik)
-```
+## My contact details
+### My email: edgar3.0gamedev@gmail.com
+### My telegram: [@edgardevwork](https://t.me/edgardevwork)
+### My vk: [@edgarr4ik](https://vk.ru/edgarr4ik)
+
 ## 😉 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardevwork&show_icons=true&theme=radical)
 
 </div>
