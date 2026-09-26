@@ -24,14 +24,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=edgardevwork&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgardevwork&show_icons=true&theme=radical&count_private=true" alt="Edgar's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardevwork&layout=compact&theme=radical&count_private=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edgardevwork&theme=onedark&no-frame=true&column=-1" alt="Trophies" />
-</p>
-
 </div>
